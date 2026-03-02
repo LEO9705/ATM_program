@@ -28,6 +28,6 @@ app.exe
 ```
 
 ## Next improvements
--Validate non-integer input (prevent crashes when the user types letters)
--Prevent negative deposits/withdrawals more robustly
--Add a transaction history (optional)
+- Validate non-integer input (prevent crashes when the user types letters)
+- Prevent negative deposits/withdrawals more robustly
+- Add a transaction history (optional)
